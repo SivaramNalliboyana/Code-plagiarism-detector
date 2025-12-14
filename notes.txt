@@ -1,0 +1,1 @@
+---> Use opcodes for normalization to avoid comment insertions
